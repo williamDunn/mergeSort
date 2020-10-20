@@ -1,0 +1,13 @@
+18	Tony	Stark	1/23/1979	Engineering	3.99
+25	Tony	theTiger	5/19/1925	Nutrition	2.5
+39	Kanye	West	6/8/1977	Music	3.5
+7	Charles	Carson	2/14/1993	Sociology	2.43
+77	Thomas	Barrow	4/6/1994	English	2.87
+78	Mary	Crawley	2/17/1992	Education	2.52
+2	Daisy	Mason	8/20/1993	Biology	3.27
+100	John	Bates	6/21/1992	History	2.29
+101	Matthew	Crawley	5/26/1993	Sociology	2.20
+17	Anna	Smith	8/29/1995	History	2.18
+71	Tom	Branson	7/23/1993	Sociology	3.29
+1	Robert	Crawley	7/21/1994	Sociology	2.16
+42	Sarah	O'Brien	5/19/1994	French	3.91
